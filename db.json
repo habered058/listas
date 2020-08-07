@@ -1,24 +1,28 @@
 {
-    "id": "1",
-    "nombre": "DOMINIO_PROYECTOS",
-    "descripcion": "CAPTURA DE INFORMACIÓN",
-    "fecha_sincroniza": "2012/12/10",
-    "valores":[
-	        {
-            "valor": "Geoquímica", "id": "01"
-            },
+    "listas":[
+	    {
+	    "id": "1",
+	    "nombre": "DOMINIO_PROYECTOS",
+	    "descripcion": "CAPTURA DE INFORMACIÓN",
+	    "fecha_sincroniza": "2012/12/10",
+	    "valores":[
 			{
-            "valor": "GeoFísica", "id": "02"
-            },
-			{
-            "valor": "Metalogenia", "id": "03"
-            },
-			{
-            "valor": "Petrofísica", "id": "04"
-            },
-			{
-            "valor": "Minerales", "id": "05"
-            }
-	
-	]
+		    "valor": "Geoquímica", "id": "01"
+		    },
+				{
+		    "valor": "GeoFísica", "id": "02"
+		    },
+				{
+		    "valor": "Metalogenia", "id": "03"
+		    },
+				{
+		    "valor": "Petrofísica", "id": "04"
+		    },
+				{
+		    "valor": "Minerales", "id": "05"
+		    }
+
+		]
+	    }
+      ]
 }
