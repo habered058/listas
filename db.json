@@ -289,7 +289,7 @@
 			]
 		},
 		{
-			"id": 9,
+			"id": 18,
 			"nombre": "DOMINIO_SUELO",
 			"descripcion": "CAPTURA DE INFORMACIÓN",
 			"fecha_sincroniza": "2012/12/10",
@@ -453,7 +453,7 @@
 			]
 		},
 		{
-			"id": 15,
+			"id": 19,
 			"nombre": "DOMINIO_EXPLORACION",
 			"descripcion": "CAPTURA DE INFORMACIÓN",
 			"fecha_sincroniza": "2012/12/10",
