@@ -55,6 +55,426 @@
 					"valor": "nada"
 				}
 			]
+		},
+		{
+			"id": 1,
+			"nombre": "DOMINIO_CALIDAD",
+			"descripcion": "CAPTURA DE INFORMACIÓN",
+			"fecha_sincroniza": "2012/12/10",
+			"valores": [
+				{
+					"id": 1,
+					"valor": "Original"
+				},
+				{
+					"id": 2,
+					"valor": "Duplicado"
+				},
+				{
+					"id": 3,
+					"valor": "Remuestreo"
+				},
+				{
+					"id": 4,
+					"valor": "Estandar"
+				},
+				{
+					"id": 5,
+					"valor": "Blanco"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"nombre": "DOMINIO_ESCALA",
+			"descripcion": "CAPTURA DE INFORMACIÓN",
+			"fecha_sincroniza": "2012/12/10",
+			"valores": [
+				{
+					"id": 1,
+					"valor": "1:500.000"
+				},
+				{
+					"id": 2,
+					"valor": "1:100.000"
+				},
+				{
+					"id": 3,
+					"valor": "1:50.000"
+				},
+				{
+					"id": 4,
+					"valor": "1:25.000"
+				},
+				{
+					"id": 5,
+					"valor": "Otra"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"nombre": "DOMINIO_COORDENADAS",
+			"descripcion": "CAPTURA DE INFORMACIÓN",
+			"fecha_sincroniza": "2012/12/10",
+			"valores": [
+				{
+					"id": 1,
+					"valor": "Datum Bogotá"
+				},
+				{
+					"id": 2,
+					"valor": "Datum Magna"
+				}
+			]
+		},
+		{
+			"id": 4,
+			"nombre": "DOMINIO_LOCALIZACION",
+			"descripcion": "CAPTURA DE INFORMACIÓN",
+			"fecha_sincroniza": "2012/12/10",
+			"valores": [
+				{
+					"id": 1,
+					"valor": "GPS"
+				},
+				{
+					"id": 2,
+					"valor": "Plancha"
+				},
+				{
+					"id": 3,
+					"valor": "Otro"
+				}
+			]
+		},
+		{
+			"id": 5,
+			"nombre": "DOMINIO_ALTITUD",
+			"descripcion": "CAPTURA DE INFORMACIÓN",
+			"fecha_sincroniza": "2012/12/10",
+			"valores": [
+				{
+					"id": 1,
+					"valor": "GPS"
+				},
+				{
+					"id": 2,
+					"valor": "Plancha"
+				},
+				{
+					"id": 3,
+					"valor": "Altímetro"
+				}
+			]
+		},
+		{
+			"id": 6,
+			"nombre": "DOMINIO_CUENCA",
+			"descripcion": "CAPTURA DE INFORMACIÓN",
+			"fecha_sincroniza": "2012/12/10",
+			"valores": [
+				{
+					"id": 1,
+					"valor": "Cálido árido"
+				},
+				{
+					"id": 2,
+					"valor": "Cálido semiárido "
+				},
+				{
+					"id": 3,
+					"valor": "Cálido muy seco"
+				},
+				{
+					"id": 4,
+					"valor": "Cálido húmedo"
+				},
+				{
+					"id": 5,
+					"valor": "Cálido pluvial"
+				},
+				{
+					"id": 5,
+					"valor": "Cálido pluvial"
+				}
+			]
+		},
+		{
+			"id": 7,
+			"nombre": "DOMINIO_PAISAJE",
+			"descripcion": "CAPTURA DE INFORMACIÓN",
+			"fecha_sincroniza": "2012/12/10",
+			"valores": [
+				{
+					"id": 1,
+					"valor": "Altiplanicie, altillanura"
+				},
+				{
+					"id": 2,
+					"valor": "Llanura"
+				},
+				{
+					"id": 3,
+					"valor": "Lomerío"
+				},
+				{
+					"id": 4,
+					"valor": "Montaña"
+				},
+				{
+					"id": 5,
+					"valor": "Peniplanicie, penillanura"
+				},
+				{
+					"id": 5,
+					"valor": "Piedemonte"
+				}
+			]
+		},
+		{
+			"id": 8,
+			"nombre": "DOMINIO_VEGETACION",
+			"descripcion": "CAPTURA DE INFORMACIÓN",
+			"fecha_sincroniza": "2012/12/10",
+			"valores": [
+				{
+					"id": 1,
+					"valor": "Suelos desnudos"
+				},
+				{
+					"id": 2,
+					"valor": "Cultivos"
+				},
+				{
+					"id": 3,
+					"valor": "Bosque primario"
+				},
+				{
+					"id": 4,
+					"valor": "Bosque secundario"
+				},
+				{
+					"id": 5,
+					"valor": "Pastos y rastrojos"
+				}
+			]
+		},
+		{
+			"id": 9,
+			"nombre": "DOMINIO_SUELO",
+			"descripcion": "CAPTURA DE INFORMACIÓN",
+			"fecha_sincroniza": "2012/12/10",
+			"valores": [
+				{
+					"id": 1,
+					"valor": "Agricultura"
+				},
+				{
+					"id": 2,
+					"valor": "Agroforestería"
+				},
+				{
+					"id": 3,
+					"valor": "Asentamientos e infraestructura"
+				},
+				{
+					"id": 4,
+					"valor": "Conservación"
+				},
+				{
+					"id": 5,
+					"valor": "Forestal"
+				}
+			]
+		},
+		{
+			"id": 9,
+			"nombre": "DOMINIO_SUELO",
+			"descripcion": "CAPTURA DE INFORMACIÓN",
+			"fecha_sincroniza": "2012/12/10",
+			"valores": [
+				{
+					"id": 1,
+					"valor": "Agricultura"
+				},
+				{
+					"id": 2,
+					"valor": "Agroforestería"
+				},
+				{
+					"id": 3,
+					"valor": "Asentamientos e infraestructura"
+				},
+				{
+					"id": 4,
+					"valor": "Conservación"
+				},
+				{
+					"id": 5,
+					"valor": "Forestal"
+				}
+			]
+		},
+		{
+			"id": 10,
+			"nombre": "DOMINIO_SUELO",
+			"descripcion": "CAPTURA DE INFORMACIÓN",
+			"fecha_sincroniza": "2012/12/10",
+			"valores": [
+				{
+					"id": 1,
+					"valor": "Lluvioso"
+				},
+				{
+					"id": 2,
+					"valor": "Seco"
+				}
+			]
+		},
+		{
+			"id": 11,
+			"nombre": "DOMINIO_CONTAMINACION",
+			"descripcion": "CAPTURA DE INFORMACIÓN",
+			"fecha_sincroniza": "2012/12/10",
+			"valores": [
+				{
+					"id": 1,
+					"valor": "Agricultura"
+				},
+				{
+					"id": 2,
+					"valor": "Aguas negras"
+				},
+				{
+					"id": 1,
+					"valor": "Ganadería"
+				},
+				{
+					"id": 2,
+					"valor": "Industria"
+				}
+			]
+		},
+		{
+			"id": 12,
+			"nombre": "DOMINIO_EXPLORACION",
+			"descripcion": "CAPTURA DE INFORMACIÓN",
+			"fecha_sincroniza": "2012/12/10",
+			"valores": [
+				{
+					"id": 1,
+					"valor": "Anomalía"
+				},
+				{
+					"id": 2,
+					"valor": "Ocurrencia"
+				},
+				{
+					"id": 1,
+					"valor": "Prospecto"
+				},
+				{
+					"id": 2,
+					"valor": "Prospecto desarrollado"
+				}
+			]
+		},
+		{
+			"id": 13,
+			"nombre": "DOMINIO_EXPLORACION",
+			"descripcion": "CAPTURA DE INFORMACIÓN",
+			"fecha_sincroniza": "2012/12/10",
+			"valores": [
+				{
+					"id": 1,
+					"valor": "Roca encajante"
+				},
+				{
+					"id": 2,
+					"valor": "Respaldos"
+				},
+				{
+					"id": 1,
+					"valor": "Fragmento de roca mineralizado"
+				},
+				{
+					"id": 2,
+					"valor": "Rodado mineralizado"
+				}
+			]
+		},
+		{
+			"id": 14,
+			"nombre": "DOMINIO_EXPLORACION",
+			"descripcion": "CAPTURA DE INFORMACIÓN",
+			"fecha_sincroniza": "2012/12/10",
+			"valores": [
+				{
+					"id": 1,
+					"valor": "Fresca"
+				},
+				{
+					"id": 2,
+					"valor": "Débilmente meteorizada"
+				},
+				{
+					"id": 1,
+					"valor": "Moderadamente meteorizada"
+				},
+				{
+					"id": 2,
+					"valor": "Altamente meteorizada"
+				}
+			]
+		},
+		{
+			"id": 15,
+			"nombre": "DOMINIO_EXPLORACION",
+			"descripcion": "CAPTURA DE INFORMACIÓN",
+			"fecha_sincroniza": "2012/12/10",
+			"valores": [
+				{
+					"id": 1,
+					"valor": "Análisis petrográfico"
+				},
+				{
+					"id": 2,
+					"valor": "Análisis químico"
+				},
+				{
+					"id": 1,
+					"valor": "Espect. Infrarroja"
+				},
+				{
+					"id": 2,
+					"valor": "Isotopía"
+				}
+			]
+		},
+		{
+			"id": 15,
+			"nombre": "DOMINIO_EXPLORACION",
+			"descripcion": "CAPTURA DE INFORMACIÓN",
+			"fecha_sincroniza": "2012/12/10",
+			"valores": [
+				{
+					"id": 1,
+					"valor": "Análisis petrográfico"
+				},
+				{
+					"id": 2,
+					"valor": "Análisis químico"
+				},
+				{
+					"id": 1,
+					"valor": "Espect. Infrarroja"
+				},
+				{
+					"id": 2,
+					"valor": "Isotopía"
+				}
+			]
 		}
 	]
 }
