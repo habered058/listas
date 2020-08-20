@@ -165,66 +165,6 @@
 				{
 					"id": "12",
 					"valor": "S_Arena fina (0.125-0.25 mm)"
-				},
-				{
-					"id": "13",
-					"valor": "S_Arena muy fina (0.063-0.125 mm)"
-				},
-				{
-					"id": "14",
-					"valor": "S_Limo (0.004-0.063 mm)"
-				},
-				{
-					"id": "15",
-					"valor": "S_Arcilla ("
-				},
-				{
-					"id": "16",
-					"valor": "IG_MT_Pegmatítico (>30 mm)"
-				},
-				{
-					"id": "17",
-					"valor": "IG_MT_Grano Grueso (5 - 30 mm)"
-				},
-				{
-					"id": "18",
-					"valor": "IG_MT_Medio (1 - 5 mm)"
-				},
-				{
-					"id": "19",
-					"valor": "IG_MT_Fino (<1  mm)"
-				},
-				{
-					"id": "20",
-					"valor": "IG_MT_Muy fino (0.004 - 0.032 mm)"
-				},
-				{
-					"id": "21",
-					"valor": "IG_MT_Criptocristalino (< 0.004 mm)"
-				},
-				{
-					"id": "22",
-					"valor": "IG_Bloques y bombas (>64 mm)"
-				},
-				{
-					"id": "23",
-					"valor": "IG_Lapilli (2-64 mm)"
-				},
-				{
-					"id": "24",
-					"valor": "IG_Ceniza de grano grueso (0.032-2 mm)"
-				},
-				{
-					"id": "25",
-					"valor": "IG_Ceniza de grano fino (<0.032)"
-				},
-				{
-					"id": "26",
-					"valor": "S_Lodo (<0.032 mm)"
-				},
-				{
-					"id": "27",
-					"valor": "S_Arena muy gruesa (1-2 mm)"
 				}
 			]
 		},
@@ -277,62 +217,6 @@
 				{
 					"id": "11",
 					"valor": "Subelongado angular"
-				},
-				{
-					"id": "12",
-					"valor": "Subelongado subangular"
-				},
-				{
-					"id": "13",
-					"valor": "Subelongado subredondeado"
-				},
-				{
-					"id": "14",
-					"valor": "Subelongado redondeado"
-				},
-				{
-					"id": "15",
-					"valor": "Subelongado bien redondeado"
-				},
-				{
-					"id": "16",
-					"valor": "Elongado angular"
-				},
-				{
-					"id": "17",
-					"valor": "Elongado subangular"
-				},
-				{
-					"id": "18",
-					"valor": "Elongado subredondeado"
-				},
-				{
-					"id": "19",
-					"valor": "Elongado redondeado"
-				},
-				{
-					"id": "20",
-					"valor": "Elongado bien redondeado"
-				},
-				{
-					"id": "21",
-					"valor": "A - Angular"
-				},
-				{
-					"id": "22",
-					"valor": "SR - Subredondeado"
-				},
-				{
-					"id": "23",
-					"valor": "SA - Subangular"
-				},
-				{
-					"id": "24",
-					"valor": "R - Redondeado"
-				},
-				{
-					"id": "25",
-					"valor": "BR - Bien redondeado"
 				}
 			]
 		},
@@ -342,38 +226,6 @@
 			"nombre": "DOM_TIPO_ALTERACION",
 			"tematica": "GEOQUIMICA",
 			"valores": [
-				{
-					"id": "25",
-					"valor": "Turmalinización"
-				},
-				{
-					"id": "26",
-					"valor": "Zeolítica"
-				},
-				{
-					"id": "27",
-					"valor": "Desconocida"
-				},
-				{
-					"id": "28",
-					"valor": "Hidrotermal"
-				},
-				{
-					"id": "29",
-					"valor": "Argílica Supérgena"
-				},
-				{
-					"id": "30",
-					"valor": "Clorítica-Potásica"
-				},
-				{
-					"id": "31",
-					"valor": "Cloritización fisural"
-				},
-				{
-					"id": "32",
-					"valor": "Caolinización"
-				},
 				{
 					"id": "1",
 					"valor": "Silicificación"
@@ -401,74 +253,6 @@
 				{
 					"id": "7",
 					"valor": "Clorítica"
-				},
-				{
-					"id": "8",
-					"valor": "Deutérica_autometasomatismo"
-				},
-				{
-					"id": "9",
-					"valor": "Epidotización"
-				},
-				{
-					"id": "10",
-					"valor": "Fenítica_Carbonatitas"
-				},
-				{
-					"id": "11",
-					"valor": "Greisen"
-				},
-				{
-					"id": "12",
-					"valor": "Hematítica"
-				},
-				{
-					"id": "13",
-					"valor": "Lixiviación"
-				},
-				{
-					"id": "14",
-					"valor": "Oxidación"
-				},
-				{
-					"id": "15",
-					"valor": "Potásica_SilicatoPotásio"
-				},
-				{
-					"id": "16",
-					"valor": "Propilítica"
-				},
-				{
-					"id": "17",
-					"valor": "Piritización"
-				},
-				{
-					"id": "18",
-					"valor": "Cuarzo_Carbonato"
-				},
-				{
-					"id": "19",
-					"valor": "Rodinginitización_Serpentinización"
-				},
-				{
-					"id": "20",
-					"valor": "Sericítica_Fílica"
-				},
-				{
-					"id": "21",
-					"valor": "Serpentinización"
-				},
-				{
-					"id": "22",
-					"valor": "Silicificación_VuggySilica"
-				},
-				{
-					"id": "23",
-					"valor": "Skarn_Silicatación"
-				},
-				{
-					"id": "24",
-					"valor": "Talco_Alteracion"
 				}
 			]
 		},
@@ -537,22 +321,6 @@
 				{
 					"id": "10",
 					"valor": "Salvanda de veta"
-				},
-				{
-					"id": "11",
-					"valor": "Sobreimpuesto"
-				},
-				{
-					"id": "12",
-					"valor": "Vetillas"
-				},
-				{
-					"id": "13",
-					"valor": "Diseminado"
-				},
-				{
-					"id": "14",
-					"valor": "Venas"
 				}
 			]
 		},
@@ -613,126 +381,6 @@
 				{
 					"id": "545",
 					"valor": "Uranotorita-(Th,U)SiO4"
-				},
-				{
-					"id": "546",
-					"valor": "Valentinita-Sb2O3"
-				},
-				{
-					"id": "547",
-					"valor": "Valleriíta-2[(Fe,Cu)S]·1.53[(Mg,Al)(OH)2]"
-				},
-				{
-					"id": "548",
-					"valor": "Vanadinita-Pb5(VO4)3Cl"
-				},
-				{
-					"id": "549",
-					"valor": "Vandendriesscheíta-Pb1.5(UO2)10O6(OH)11·11H2O"
-				},
-				{
-					"id": "550",
-					"valor": "Vermiculita-Mg0.7(Mg,Fe,Al)6(Si,Al)8O20(OH)4·8H2O"
-				},
-				{
-					"id": "551",
-					"valor": "Vesuvianita-(Ca,Na)19(Al,Mg,Fe)13(SiO4)10(Si2O7)4(OH,F,O)10"
-				},
-				{
-					"id": "552",
-					"valor": "Vesuvianita-(Ca,Na)19(Al,Mg,Fe)13(SiO4)10(Si2O7)4(OH,F,O)10"
-				},
-				{
-					"id": "553",
-					"valor": "Vídrio"
-				},
-				{
-					"id": "554",
-					"valor": "Vídrio Volcánico"
-				},
-				{
-					"id": "555",
-					"valor": "Violarita-Fe+2Ni+32S4"
-				},
-				{
-					"id": "556",
-					"valor": "Volborthita-Cu3+2V2+5O7(OH)2·2H2O"
-				},
-				{
-					"id": "557",
-					"valor": "Wairauíta-CoFe"
-				},
-				{
-					"id": "558",
-					"valor": "Wardita-NaAl3(PO4)2 (OH)4 ·2H2O"
-				},
-				{
-					"id": "559",
-					"valor": "Wehrlita"
-				},
-				{
-					"id": "560",
-					"valor": "Willyamita-(Co,Ni)SbS"
-				},
-				{
-					"id": "561",
-					"valor": "Wilsonita-KAl2(Si,Al)4O10(OH,F)2"
-				},
-				{
-					"id": "562",
-					"valor": "Witherita-BaCO3"
-				},
-				{
-					"id": "563",
-					"valor": "Wittichenita-Cu3BiS3"
-				},
-				{
-					"id": "564",
-					"valor": "Wolframita-(Fe,Mn,Mg)WO4"
-				},
-				{
-					"id": "565",
-					"valor": "Wollastonita-CaSiO3"
-				},
-				{
-					"id": "566",
-					"valor": "Woodhousíta-CaAl3(SO4)(PO4)(OH)6"
-				},
-				{
-					"id": "567",
-					"valor": "Wulfenita-PbMoO4"
-				},
-				{
-					"id": "568",
-					"valor": "Wurtzita-(Zn,Fe)S"
-				},
-				{
-					"id": "569",
-					"valor": "Xenotima-YPO4"
-				},
-				{
-					"id": "570",
-					"valor": "Yeso CaSO4·2H2O"
-				},
-				{
-					"id": "571",
-					"valor": "Yukonita-Ca7Fe1+23(AsO4)10(OH)20·15H2O(?)"
-				},
-				{
-					"id": "572",
-					"valor": "Zafirina-Mg4(Mg3Al9)O4[Si3Al9O36]"
-				},
-				{
-					"id": "573",
-					"valor": "Zaratita-Ni3(CO3)(OH)4·4H2O"
-				},
-				{
-					"id": "574",
-					"valor": "Zeolita-(Na, Ca, K, Ba, Sr)x/n (AlO2)x (SiO2)y mH2O"
-				},
-				{
-					"id": "575",
-					"valor": "Zeunerita-Cu(UO2)2(AsO4)2·12H2O"
 				}
 				]
 		},
