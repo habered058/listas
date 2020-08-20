@@ -475,6 +475,390 @@
 					"valor": "Isotopía"
 				}
 			]
+		},
+		{
+			"id": 24,
+			"estado": 1,
+			"nombre": "DOM_CONTROL_CALIDAD",
+			"tematica": "GEOQUIMICA",
+			"valores": [
+				{
+					"id": "2",
+					"valor": "DUPLICADO"
+				},
+				{
+					"id": "3",
+					"valor": "REMUESTREO"
+				},
+				{
+					"id": "4",
+					"valor": "ESTANDAR"
+				},
+				{
+					"id": "5",
+					"valor": "BLANCO"
+				},
+				{
+					"id": "1",
+					"valor": "ORIGINAL"
+				}
+			]
+		},
+		{
+			"id": 70,
+			"estado": 1,
+			"nombre": "DOM_LITOLOGIA",
+			"tematica": "GEOQUIMICA",
+			"valores": [
+				{
+					"id": "1",
+					"valor": "Ígnea Intrusiva Máfica"
+				},
+				{
+					"id": "2",
+					"valor": "Ígnea Intrusiva Intermedia"
+				},
+				{
+					"id": "3",
+					"valor": "Ígnea Intrusiva Félsica"
+				},
+				{
+					"id": "4",
+					"valor": "Ígnea Volcánica Máfica"
+				},
+				{
+					"id": "5",
+					"valor": "Ígnea Volcánica Intermedia"
+				},
+				{
+					"id": "6",
+					"valor": "Ígnea Volcánica Félsica"
+				},
+				{
+					"id": "7",
+					"valor": "Sedimentaria Detrítica Conglomerado"
+				},
+				{
+					"id": "8",
+					"valor": "Sedimentaria Detrítica Arenisca"
+				},
+				{
+					"id": "9",
+					"valor": "Sedimentaria Detrítica Lodolita"
+				},
+				{
+					"id": "10",
+					"valor": "Sedimentaria Química Caliza"
+				},
+				{
+					"id": "11",
+					"valor": "Sedimentaria Química Evaporita"
+				},
+				{
+					"id": "12",
+					"valor": "Sedimentaria Química Otra"
+				},
+				{
+					"id": "13",
+					"valor": "Metamórfica Regional"
+				},
+				{
+					"id": "14",
+					"valor": "Metamórfica Contacto"
+				},
+				{
+					"id": "15",
+					"valor": "Metamórfica Dinámica"
+				},
+				{
+					"id": "16",
+					"valor": "Volcano-sedimentaria Aglomerado"
+				},
+				{
+					"id": "17",
+					"valor": "Volcano-sedimentaria Brecha"
+				},
+				{
+					"id": "18",
+					"valor": "Volcano-sedimentaria Lapilli"
+				},
+				{
+					"id": "19",
+					"valor": "Volcano-sedimentaria Toba"
+				}
+			]
+        },
+		{
+			"id": 104,
+			"estado": 1,
+			"nombre": "DOM_TAMANIO_GRANO",
+			"tematica": "GEOQUIMICA",
+			"valores": [
+				{
+					"id": "1",
+					"valor": "S_Grava muy gruesa (32-64 mm)"
+				},
+				{
+					"id": "2",
+					"valor": "S_Grava gruesa (16-32 mm)"
+				},
+				{
+					"id": "3",
+					"valor": "S_Grava media (8-16 mm)"
+				},
+				{
+					"id": "4",
+					"valor": "S_Grava fina (4-8 mm)"
+				},
+				{
+					"id": "5",
+					"valor": "S_Grava muy fina (2-4 mm)"
+				},
+				{
+					"id": "6",
+					"valor": "S_Bloques (>256 mm)"
+				},
+				{
+					"id": "7",
+					"valor": "S_Cantos (16-256 mm)"
+				},
+				{
+					"id": "8",
+					"valor": "S_Guijarros (4-16 mm)"
+				},
+				{
+					"id": "9",
+					"valor": "S_Gránulos (2-4 mm)"
+				},
+				{
+					"id": "10",
+					"valor": "S_Arena gruesa (0.5-1 mm)"
+				},
+				{
+					"id": "11",
+					"valor": "S_Arena media (0.25-0.5 mm)"
+				},
+				{
+					"id": "12",
+					"valor": "S_Arena fina (0.125-0.25 mm)"
+				}
+			]
+		},
+		{
+			"id": 46,
+			"estado": 1,
+			"nombre": "DOM_FORMA",
+			"tematica": "GEOQUIMICA",
+			"valores": [
+				{
+					"id": "1",
+					"valor": "Esférico angular"
+				},
+				{
+					"id": "2",
+					"valor": "Esférico subangular"
+				},
+				{
+					"id": "3",
+					"valor": "Esférico subredondeado"
+				},
+				{
+					"id": "4",
+					"valor": "Esférico redondeado"
+				},
+				{
+					"id": "5",
+					"valor": "Esférico bien redondeado"
+				},
+				{
+					"id": "6",
+					"valor": "Subesférico angular"
+				},
+				{
+					"id": "7",
+					"valor": "Subesférico subangular"
+				},
+				{
+					"id": "8",
+					"valor": "Subesférico subredondeado"
+				},
+				{
+					"id": "9",
+					"valor": "Subesférico redondeado"
+				},
+				{
+					"id": "10",
+					"valor": "Subesférico bien redondeado"
+				},
+				{
+					"id": "11",
+					"valor": "Subelongado angular"
+				}
+			]
+		},
+		{
+			"id": 111,
+			"estado": 1,
+			"nombre": "DOM_TIPO_ALTERACION",
+			"tematica": "GEOQUIMICA",
+			"valores": [
+				{
+					"id": "1",
+					"valor": "Silicificación"
+				},
+				{
+					"id": "2",
+					"valor": "Albítica_SilicatoSódico"
+				},
+				{
+					"id": "3",
+					"valor": "Alunítica_ArgílicaAvanzada"
+				},
+				{
+					"id": "4",
+					"valor": "Argílica_ArgilicaIntermedia"
+				},
+				{
+					"id": "5",
+					"valor": "Biotítica_Potásica"
+				},
+				{
+					"id": "6",
+					"valor": "Carbonatización"
+				},
+				{
+					"id": "7",
+					"valor": "Clorítica"
+				}
+			]
+		},
+		{
+			"id": 67,
+			"estado": 1,
+			"nombre": "DOM_INTENSIDAD_ALTERACION",
+			"tematica": "GEOQUIMICA",
+			"valores": [
+				{
+					"id": "1",
+					"valor": "Débil"
+				},
+				{
+					"id": "2",
+					"valor": "Moderada"
+				},
+				{
+					"id": "3",
+					"valor": "Fuerte"
+				}
+			]
+		},
+		{
+			"id": 28,
+			"estado": 1,
+			"nombre": "DOM_DISTRIBUCION_ALTERACION",
+			"tematica": "GEOQUIMICA",
+			"valores": [
+				{
+					"id": "1",
+					"valor": "Controlada por estructuras"
+				},
+				{
+					"id": "2",
+					"valor": "Estratoligada"
+				},
+				{
+					"id": "3",
+					"valor": "Estructuras"
+				},
+				{
+					"id": "4",
+					"valor": "Fracturas"
+				},
+				{
+					"id": "5",
+					"valor": "Selectiva/Fenocristales"
+				},
+				{
+					"id": "6",
+					"valor": "Selectiva/Clastos"
+				},
+				{
+					"id": "7",
+					"valor": "Selectiva/Matriz"
+				},
+				{
+					"id": "8",
+					"valor": "Parches"
+				},
+				{
+					"id": "9",
+					"valor": "Pervasiva"
+				},
+				{
+					"id": "10",
+					"valor": "Salvanda de veta"
+				}
+			]
+		},
+		{
+			"id": 74,
+			"estado": 1,
+			"nombre": "DOM_MINERAL",
+			"tematica": "GEOQUIMICA",
+			"valores": [
+				{
+					"id": "533",
+					"valor": "Tremolita-Ca2(Mg5.0-4.5Fe+20.0-0.5)Si8O22(OH)2"
+				},
+				{
+					"id": "534",
+					"valor": "Tridimita-SiO2"
+				},
+				{
+					"id": "535",
+					"valor": "Troilita-FeS"
+				},
+				{
+					"id": "536",
+					"valor": "Turgita-Fe2O3.nH2O"
+				},
+				{
+					"id": "537",
+					"valor": "Turmalina-(Na, Ca)(Al, Fe, Li)(Al, Mg,Mn)6(BO3)3(Si6O18).(OH, F)4"
+				},
+				{
+					"id": "538",
+					"valor": "Twinnita-Pb(As,Sb)2S4"
+				},
+				{
+					"id": "539",
+					"valor": "Ulexita-NaCaB5O6(OH)6·5H2O"
+				},
+				{
+					"id": "540",
+					"valor": "Ullmannita-NiSbS"
+				},
+				{
+					"id": "541",
+					"valor": "Ulvöespinela-TiFe2+2O4"
+				},
+				{
+					"id": "542",
+					"valor": "Uralita-seudomorfo Ca2(Mg,Fe+2)5Si8O22(OH)2"
+				},
+				{
+					"id": "543",
+					"valor": "Uraninita-UO2"
+				},
+				{
+					"id": "544",
+					"valor": "Uranofana-Ca(UO2)2(SiO3OH)2·5H2O"
+				},
+				{
+					"id": "545",
+					"valor": "Uranotorita-(Th,U)SiO4"
+				}
+				]
 		}
 	]
 }
